@@ -88,3 +88,4 @@ http-client.private.env.json
 *.txt
 *.idea
 .idea/
+.idea
